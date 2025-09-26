@@ -47,11 +47,6 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalreddypr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajwalreddypr&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 🌟 Featured Projects
 
@@ -62,6 +57,14 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
 - A comprehensive platform for expatriates to manage their relocation and settlement
 - Built with modern TypeScript stack and responsive design
 - Features include document management, local services integration, and community support
+
+### 🐦 [EPITA Twitter Clone](https://github.com/prajwalreddypr/epita-twitter-clone)
+
+**TypeScript | Social Media Platform**
+
+- Full-featured social media platform inspired by Twitter
+- Real-time messaging and user interaction features
+- Demonstrates complex frontend and backend integration
 
 ### 🌾 [Kisan2Kitchen](https://github.com/prajwalreddypr/Kisan2Kitchen)
 
@@ -86,14 +89,6 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
 - Modern task management API built with FastAPI
 - Features CRUD operations, user authentication, and data validation
 - Showcases backend development best practices
-
-### 🐦 [EPITA Twitter Clone](https://github.com/prajwalreddypr/epita-twitter-clone)
-
-**TypeScript | Social Media Platform**
-
-- Full-featured social media platform inspired by Twitter
-- Real-time messaging and user interaction features
-- Demonstrates complex frontend and backend integration
 
 ## 📈 Contribution Graph
 
