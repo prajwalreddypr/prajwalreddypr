@@ -82,21 +82,6 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
 - Implements ML algorithms for crop quality assessment
 - Helps bridge the gap between farmers and consumers
 
-### 🌤️ [Simple Weather API](https://github.com/prajwalreddypr/simple-weather-API)
-
-**Python | API Integration | OpenWeatherMap**
-
-- Clean and efficient weather data fetching service
-- RESTful API design with proper error handling
-- Demonstrates API integration and data processing skills
-
-### ✅ [To-Do List with FastAPI](https://github.com/prajwalreddypr/to-do-list-Using-FastAPI)
-
-**Python | FastAPI | Backend Development**
-
-- Modern task management API built with FastAPI
-- Features CRUD operations, user authentication, and data validation
-- Showcases backend development best practices
 
 ## 📈 Contribution Graph
 
