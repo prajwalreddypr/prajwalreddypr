@@ -57,6 +57,15 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
 - Built with modern TypeScript stack and responsive design
 - Features include document management, local services integration, and community support
 
+### 🧠 [Lexie-Oui](https://github.com/prajwalreddypr/Lexie-Oui-)
+
+**React | FastAPI | Healthcare Tech**
+
+- Gamified dyslexia severity assessment game for early detection
+- Interactive gameplay to evaluate reading abilities and challenges
+- Built for Gotta Go Hack hackathon sponsored by BPCE
+- User-friendly interface with real-time feedback and accessibility focus
+
 ### 🐦 [EPITA Twitter Clone](https://github.com/prajwalreddypr/epita-twitter-clone)
 
 **TypeScript | Social Media Platform**
