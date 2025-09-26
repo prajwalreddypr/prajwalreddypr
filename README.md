@@ -126,9 +126,9 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
 
 ## 💡 Fun Facts
 
-- 🎯 **YOLO Achievement**: I believe in taking calculated risks and learning from every experience
-- 🦈 **Pull Shark**: I love contributing to open source projects and helping the community
-- ⚡ **Quickdraw**: I'm known for my quick problem-solving skills and efficient coding
+- 📸 **Content Creator**: I secretly post amazing content on [@Paris_kannadiga](https://instagram.com/Paris_kannadiga)
+- 🚴 **Cycling Enthusiast**: I love exploring new places on my bike and capturing the journey
+- 📷 **Photography Passion**: Always ready to capture the perfect moment, whether it's code or landscapes
 
 ---
 
