@@ -47,7 +47,6 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalreddypr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
 ## 🌟 Featured Projects
 
 ### 🏠 [Expat-Ease](https://github.com/prajwalreddypr/Expat-Ease)
@@ -121,9 +120,7 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
 
 ## 💡 Fun Facts
 
-- 📸 **Content Creator**: I secretly post amazing content on [@Paris_kannadigaa](https://instagram.com/Paris_kannadigaa)
-- 🚴 **Cycling Enthusiast**: I love exploring new places on my bike and capturing the journey
-- 📷 **Photography Passion**: Always ready to capture the perfect moment, whether it's code or landscapes
+- 📸 **Content Creator** [@Paris_kannadigaa](https://instagram.com/Paris_kannadigaa) | 🚴 **Cycling Enthusiast** | 📷 **Photography**
 
 ---
 
