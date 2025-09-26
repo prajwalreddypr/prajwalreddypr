@@ -8,11 +8,6 @@
 
 I'm a passionate **Backend Engineer** with expertise in building scalable APIs and robust server-side applications. I love solving complex problems and creating efficient solutions that make a difference.
 
-- 🔭 I'm currently working on **Expat-Ease** and **Kisan2Kitchen** projects
-- 🌱 I'm learning **System Design** and **Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source** projects
-- 💬 Ask me about **Python, FastAPI, Database Design, or API Development**
-- ⚡ Fun fact: I believe in "Code once, run everywhere" philosophy
 
 ## 🛠️ Tech Stack
 
@@ -81,7 +76,6 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
 - Farm-to-Market quality prediction platform for farmers
 - Implements ML algorithms for crop quality assessment
 - Helps bridge the gap between farmers and consumers
-
 
 ## 📈 Contribution Graph
 
