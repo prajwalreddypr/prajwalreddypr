@@ -104,16 +104,16 @@ I'm a passionate **Backend Engineer** with expertise in building scalable APIs a
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:reddyprajwal2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/prajwal-reddy-p-r-6256b71b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-handle">
+  <a href="https://x.com/noob4141">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://prajwalreddypr.github.io/personal-website/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
