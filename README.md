@@ -1,7 +1,7 @@
 # Hi there, I'm Prajwal Reddy! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+Node.js;Database+Design+%7C+API+Development;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+Node.js;Database+Design+%7C+API+Development;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
