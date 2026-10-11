@@ -1,7 +1,7 @@
 # Hi there, I'm Prajwal Reddy! 👋
 
 <div align="center">
-  <h3>Full Stack Engineer</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Backend+Engineer;AI-Native+Developer" alt="Full Stack Engineer, Backend Engineer, AI-Native Developer" />
 </div>
 
 ## 🚀 About Me
