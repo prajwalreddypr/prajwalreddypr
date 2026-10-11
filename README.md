@@ -95,7 +95,7 @@ to React and TypeScript dashboards, with a focus on geospatial data, automation,
 
 <div align="center">
   <a href="https://github.com/prajwalreddypr">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalreddypr&theme=tokyonight" alt="Prajwal's GitHub contribution activity graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalreddypr&theme=tokyonight#svgView(viewBox(245,35,450,155))" width="700" alt="Prajwal's GitHub contribution activity graph" />
   </a>
 </div>
 
@@ -118,7 +118,7 @@ to React and TypeScript dashboards, with a focus on geospatial data, automation,
 
 ## 💡 Fun Facts
 
-- 🚴 I cycle | 📸 I click pictures | 📱 I spam good stories on Insta [(paris.prajwal)](https://instagram.com/paris.prajwal)
+- 🚴 I cycle | 📸 I click pictures
 
 ---
 
