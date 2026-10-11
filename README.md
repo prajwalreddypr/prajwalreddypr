@@ -94,7 +94,9 @@ to React and TypeScript dashboards, with a focus on geospatial data, automation,
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalreddypr&theme=tokyo-night&hide_border=true" alt="Prajwal's GitHub contribution graph" />
+  <a href="https://github.com/prajwalreddypr">
+    <img src="https://ghchart.rshah.org/409ba5/prajwalreddypr" alt="Prajwal's GitHub contribution graph" />
+  </a>
 </div>
 
 ## 🤝 Connect With Me
