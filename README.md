@@ -94,7 +94,7 @@ to React and TypeScript dashboards, with a focus on geospatial data, automation,
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalreddypr&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalreddypr&theme=tokyo-night&hide_border=true" alt="Prajwal's GitHub contribution graph" />
 </div>
 
 ## 🤝 Connect With Me
@@ -116,7 +116,7 @@ to React and TypeScript dashboards, with a focus on geospatial data, automation,
 
 ## 💡 Fun Facts
 
-- 🚴 I cycle | 📸 I click pictures | 📱 I spam good stories on [Instagram](https://instagram.com/Paris_kannadigaa)
+- 🚴 I cycle | 📸 I click pictures | 📱 I spam good stories on Insta [(paris.prajwal)](https://instagram.com/paris.prajwal)
 
 ---
 
