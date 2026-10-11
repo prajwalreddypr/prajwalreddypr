@@ -6,7 +6,9 @@
 
 ## 🚀 About Me
 
-I’m a Full Stack Engineer Intern at Everimpact, building climate-tech systems that monitor carbon emissions using city-deployed IoT sensors and satellite data. I develop production features end to end, from Python and FastAPI services backed by PostgreSQL/PostGIS to React and TypeScript dashboards, with a focus on geospatial data, automation, testing, and reliable infrastructure.
+I’m a Full Stack Engineer Intern at Everimpact, building climate-tech systems that monitor carbon emissions using city-deployed IoT sensors and satellite data.<br>
+I develop production features end to end, from Python and FastAPI services backed by PostgreSQL/PostGIS<br>
+to React and TypeScript dashboards, with a focus on geospatial data, automation, testing, and reliable infrastructure.
 
 
 ## 🛠️ Tech Stack
