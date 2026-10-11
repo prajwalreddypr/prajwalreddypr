@@ -58,7 +58,7 @@ to React and TypeScript dashboards, with a focus on geospatial data, automation,
 
 ## 🌟 Featured Projects
 
-### 🏠 [Expat-Ease](https://github.com/prajwalreddypr/Expat-Ease)
+### 🏠 [Expat-Ease — AI-Powered Relocation](https://github.com/prajwalreddypr/Expat-Ease)
 
 **TypeScript | Full-Stack Application**
 
@@ -97,12 +97,6 @@ to React and TypeScript dashboards, with a focus on geospatial data, automation,
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalreddypr&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 📊 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwalreddypr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -122,7 +116,7 @@ to React and TypeScript dashboards, with a focus on geospatial data, automation,
 
 ## 💡 Fun Facts
 
-- 📸 **Content Creator** [@Paris_kannadigaa](https://instagram.com/Paris_kannadigaa) | 🚴 **Cycling Enthusiast** | 📷 **Photography**
+- 🚴 I cycle | 📸 I click pictures | 📱 I spam good stories on [Instagram](https://instagram.com/Paris_kannadigaa)
 
 ---
 
