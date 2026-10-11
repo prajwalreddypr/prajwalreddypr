@@ -95,7 +95,7 @@ to React and TypeScript dashboards, with a focus on geospatial data, automation,
 
 <div align="center">
   <a href="https://github.com/prajwalreddypr">
-    <img src="https://ghchart.rshah.org/409ba5/prajwalreddypr" alt="Prajwal's GitHub contribution graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalreddypr&theme=tokyonight" alt="Prajwal's GitHub contribution activity graph" />
   </a>
 </div>
 
